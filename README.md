@@ -200,7 +200,7 @@ Replace the `analyze_with_local_model()` function with API calls.
 
 ## 📚 Technical Details
 
-- **Model**: Qwen/Qwen2-VL-2B-Instruct
+- **Model**: Qwen/Qwen2-VL-2B-Instruct 
 - **Framework**: PyTorch + Transformers
 - **Automation**: Selenium WebDriver
 - **Browser**: Chrome with remote debugging
@@ -214,11 +214,6 @@ Contributions welcome! Areas for improvement:
 - Multi-language support
 - Batch processing optimization
 
-## 📄 License
-
-MIT License - feel free to use and modify
-
-## ⚠️ Disclaimer
 
 This tool is for educational and personal use. Always review deleted emails periodically. The AI may make mistakes. Use at your own risk.
 
